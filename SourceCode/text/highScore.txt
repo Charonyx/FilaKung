@@ -1,0 +1,13 @@
+John,12000
+Mali,5000
+Barney,10000
+Ammy,15000
+Boat,2500
+asd,14600
+test,39200
+sdfsdf,21700
+onn,21700
+asd,28900
+fghjk,0
+asd,4500
+12345,7300
